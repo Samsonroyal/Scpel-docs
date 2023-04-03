@@ -1,10 +1,8 @@
 # Nextra Docs Template 
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This is where you get started with the documentation for [Scpel](https://scpel.org).
 
 [**Live Demo →**](https://scpel-docs.vercel.app)
-
-[![](.github/screenshot.png)](https://scpel-docs.vercel.app)
 
 ## Quick Start
 
@@ -14,9 +12,9 @@ Click the button to clone this repository and deploy it on Vercel:
 
 ## Local Development
 
-First, run `pnpm i` to install the dependencies.
+First, run `npm install` to install the dependencies.
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+Then, run `npm dev` to start the development server and visit localhost:3000.
 
 ## License
 
