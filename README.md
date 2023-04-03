@@ -1,4 +1,4 @@
-# Nextra Docs Template 
+# README 
 
 This is where you get started with the documentation for [Scpel](https://scpel.org).
 
